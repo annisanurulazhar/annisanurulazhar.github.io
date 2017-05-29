@@ -24,6 +24,6 @@ date: 2017-05-29
 >> Proses persiapan teks meliputi "pembersihan" data yang telah di-ekstrak seblum dilakukan analisis lebih lanjut. Biasanya proses ini terdiri dari identifikasi dan eliminasi konteks non-tekstual dari data juga eliminasi informasi yang dapat memperlihatkan identitas *reviewer* seperti nama, lokasi, dan lain-lain. Selain itu, konten lain yang dinilai tidak relevan juga dieliminasi.
 >
 > **Deteksi sentimen**
->> 
+>> deteksi sentimen
   
 
