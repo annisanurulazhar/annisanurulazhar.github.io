@@ -36,6 +36,7 @@ date: 2017-05-29
 > Itulah tahap-tahap yang terdapat dalam analisis sentimen. Selanjutnya, informasi yang didapatkan dari analisis sentimen ini dapat digunakan untuk mengembangkan strategi pemasaran yang lebih baik.
 >
 >***Sumber:***
+>
 > R. Meena and G. Joao, “Marketing Research: The Role of Sentiment Analysis,” FEP Working Papers, April 2013
 >
 > M. Walaa et all, “Sentiment Analysis Algorithms and Applications: A Survey,” in Ain Shams Engineering Journal , vol 5 Issue 4, Dec 2014, pp. 1093-1113
