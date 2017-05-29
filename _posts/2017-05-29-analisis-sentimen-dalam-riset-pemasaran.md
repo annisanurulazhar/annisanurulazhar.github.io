@@ -37,6 +37,8 @@ date: 2017-05-29
 >
 >***Sumber:***
 > R. Meena and G. Joao, “Marketing Research: The Role of Sentiment Analysis,” FEP Working Papers, April 2013
+>
 > M. Walaa et all, “Sentiment Analysis Algorithms and Applications: A Survey,” in Ain Shams Engineering Journal , vol 5 Issue 4, Dec 2014, pp. 1093-1113
+>
 > https://en.wikipedia.org/wiki/Marketing_research
 
